@@ -1,4 +1,4 @@
-# People You Should Follow on CodePen
+# People To Follow on CodePen
 
 > If you like SVG, Animation, Canvas, Interaction, WebGL, Three.js, Shader, GLSL, P5.js and Creative Code
 
